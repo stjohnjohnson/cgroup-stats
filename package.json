@@ -1,6 +1,6 @@
 {
   "name": "cgroup-stats",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reading CGroup container usage stats",
   "main": "index.js",
   "scripts": {
