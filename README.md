@@ -31,6 +31,6 @@ cgroupStats(function (error, data) {
 ## License
 Code licensed under the MIT license.  See `LICENSE` file for terms.
 
- [cgroup]: https://www.kernel.org/doc/Documentation/cgroups/cgroups.txt
- [memory]: https://www.kernel.org/doc/Documentation/cgroups/memory.txt
- [cpuacct]: https://www.kernel.org/doc/Documentation/cgroups/cpuacct.txt
+ [cgroup]: https://en.wikipedia.org/wiki/Cgroups
+ [memory]: https://www.kernel.org/doc/Documentation/cgroup-v1/memory.txt
+ [cpuacct]: https://www.kernel.org/doc/Documentation/cgroup-v1/cpuacct.txt
