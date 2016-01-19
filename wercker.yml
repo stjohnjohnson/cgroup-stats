@@ -2,5 +2,7 @@ box: nodesource/trusty
 
 build:
   steps:
+    - script:
+        code: export NODE_ENV='testing'
     - npm-install
     - npm-test
