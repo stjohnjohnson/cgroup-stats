@@ -1,5 +1,10 @@
 # cgroup-stats
+[![version](https://img.shields.io/npm/v/cgroup-stats.svg)](cgroup-stats)
+[![downloads](https://img.shields.io/npm/dt/cgroup-stats.svg)](cgroup-stats)
+[![build status](https://app.wercker.com/status/69dad692abfba7ef1f1cdcbd1d162792/s "wercker status")](https://app.wercker.com/project/bykey/69dad692abfba7ef1f1cdcbd1d162792)
+
 Node Module for reading [Control Group][cgroup] usage stats
+
 
 Currently this reads the following data:
  - [memory.usage_in_bytes][memory] - current usage for memory
